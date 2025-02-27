@@ -1,0 +1,11 @@
+{
+  "name": "german-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nurimelih <nmelih@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react-native-get-random-values": "^1.11.0"
+  }
+}
